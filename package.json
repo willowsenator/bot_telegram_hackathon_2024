@@ -1,0 +1,11 @@
+{
+  "name": "adv_nct",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "yargs": "^17.7.2"
+  }
+}
